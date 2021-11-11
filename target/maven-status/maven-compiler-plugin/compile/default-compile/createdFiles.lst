@@ -1,0 +1,5 @@
+io/akoserwa/SecureKeycloakApp/SecureKeycloakAppApplication.class
+io/akoserwa/SecureKeycloakApp/security/SecurityConfig.class
+io/akoserwa/SecureKeycloakApp/controllers/JWTUtil.class
+io/akoserwa/SecureKeycloakApp/security/CustomKeycloakSpringBootConfigResolver.class
+io/akoserwa/SecureKeycloakApp/controllers/TokenController.class
